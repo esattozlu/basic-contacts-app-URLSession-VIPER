@@ -1,2 +1,2 @@
 # basic-contacts-app-URLSession-VIPER
-- VIPER Pattern
+- VIPER Pattern -URLSession
