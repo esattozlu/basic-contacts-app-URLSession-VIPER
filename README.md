@@ -1,2 +1,2 @@
-# basic-contacts-app-alamofire-viper
+# basic-contacts-app-URLSession-VIPER
 - VIPER Pattern
